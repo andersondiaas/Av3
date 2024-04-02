@@ -1,0 +1,14 @@
+#title{
+    color: rgb(0, 0, 0);
+    font-family: Tahoma;
+    background-color: rgb(163, 40, 40);
+}
+.texto:hover{
+    color: rgb(2, 2, 252);
+    cursor: pointer;
+}
+
+.texto{
+    font-family: Calibri;
+    color: rgb(5, 248, 248);
+}
